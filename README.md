@@ -44,6 +44,6 @@ Each instance is categorized by the object type (ball or globe valve) and the an
 
 ## Citation
 
-If you use this database in your research, please cite the following paper:
+If you use this source code or database in your research, please cite the following paper:
 
 Manawadu, Udaka A., and Naruse Keitaro. 2024. "Dexterous Manipulation Based on Object Recognition and Accurate Pose Estimation Using RGB-D Data." *Sensors* 24, no. 21: 6823. [https://doi.org/10.3390/s24216823](https://doi.org/10.3390/s24216823).
