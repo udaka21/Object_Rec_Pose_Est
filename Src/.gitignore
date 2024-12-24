@@ -120,3 +120,6 @@ Data/Distance/Red_Valve/.~lock.Data_summary.xlsx\#
 Data/Angle/Red_valve/15/.~lock.Data_summary.xlsx\#
 Data/Angle/Red_valve/30/.~lock.Data_summary.xlsx\#
 Data/Angle/Green_valve/.~lock.Summary.ods\#
+
+build/status.log
+build/log.csv

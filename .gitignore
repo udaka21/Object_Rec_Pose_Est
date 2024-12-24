@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+Src/build/status.log
+Src/build/log.csv
+.idea/.name
+*.xml
+.idea/Object_Rec_Pose_Est.iml
