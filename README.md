@@ -17,7 +17,8 @@ The methodology of this repository can be summarized in the following Figure.
 - Pose Estimation: Determines the position and orientation of objects using RANSAC algorithms.
 - Dexterous Manipulation: Executes movements to manipulate valve handles dynamically adjusting the robotic arm's position based on zonal classifications (Green Zone and Yellow Zone) for optimal pose estimation and successful task execution.
 
-  ### ObjectTransformation.cpp
+### ObjectTransformation.cpp
+
 ObjectTransformation class transforms the position and orientation from the object frame to the robot arm frame (world frame) as in the following Figure.
 ![CoordinateTransform](CoordinateTransform.png)
 
