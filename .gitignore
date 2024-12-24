@@ -35,3 +35,4 @@ Src/build/log.csv
 .idea/.name
 *.xml
 .idea/Object_Rec_Pose_Est.iml
+.idea
